@@ -1,16 +1,13 @@
-## Hi there 👋
+# 안녕하세요 프론트엔드 개발자를 꿈꾸는 이경준입니다
+## 현재 공부하는 프로그램 
+ photoship
+ illustator
+ html
+ css
+ javaascript
+ jquery
+ react
+ git
 
-<!--
-**dlrudwns0304/dlrudwns0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+수업 외 공부하고 노력하는 것
+능력있는 개발자 & 디자이너가 되기 위해 영상이나 책 참고해서 공부하고 있습니다
